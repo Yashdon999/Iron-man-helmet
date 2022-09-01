@@ -1,2 +1,2 @@
 # Iron-man-helmet
-In this project we can draw Ironman helmet 
+In this project we can draw Ironman helmet in Python.
